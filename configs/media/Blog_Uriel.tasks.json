@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "6641bee07d79b6b57548d8e9"
+  },
+  "title": "Laboratorio #1",
+  "description": "Recreacion de pagina official de kinal",
+  "taskType": "TALLER III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239450946791145522/image.png?ex=6642f825&is=6641a6a5&hm=0faf29f151a70288a125a359845b5bbc8870beeeea36eda51d673213d9adcd10&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641bf157d79b6b57548d8ed"
+  },
+  "title": "Laboratorio #2",
+  "description": "Se realizo una api en el cual existen Mascotas y Usuarios, Mascotas pueden ser adoptados por Usuarios",
+  "taskType": "TALLER III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239453739178393673/image.png?ex=6642fabf&is=6641a93f&hm=10412988abe058858deb20844ca9dab9d6663765738edd2041823abe26df2be3&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641bf367d79b6b57548d8ef"
+  },
+  "title": "Proyecto Final Bim. I",
+  "description": "Se realiza un programa en el cual permita Ventas Online permitiendo agregar objetos al carrito de comprar y despues comprar los productos y generando una fatura",
+  "taskType": "TALLER III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239455400995197008/image.png?ex=6642fc4b&is=6641aacb&hm=654fc4cf5c0ec75805ec278691c6c21021269a5689c4bcb7c2473fdcee9ea9d2&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641bf5f7d79b6b57548d8f3"
+  },
+  "title": "Ejercicios sobre lógica de programación",
+  "description": "En hacker rank se realizaron distintos ejercicos de programacion (4 faciles, 2 medios y 2 dificiles).",
+  "taskType": "TALLER III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239457619144605799/image.png?ex=6642fe5c&is=6641acdc&hm=d1a600a6cec3b848ac75edabd2e230107676bfd517a4b92dcab723395449ddb7&&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641bf7f7d79b6b57548d8f5"
+  },
+  "title": "Laboratorio PS # 1",
+  "description": "Se crea una Lista de contactos y en el mismo proyecto creamos un To Do List fucnional",
+  "taskType": "PRACITCA SUPERVISADA",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239458684719857755/image.png?ex=6642ff5a&is=6641adda&hm=e11fc8783e121abcd35f1ea90f4f7ea317d00586475737530d583f8dcfa2bfc7&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641bf9e7d79b6b57548d8f7"
+  },
+  "title": "Laboratorio PS #2",
+  "description": "Creamos un control academico en el cual cuenta con Student, Maestros y Cursos, en el cual cada Student tiene una materia y cada materia tiene un maestro",
+  "taskType": "PRACITCA SUPERVISADA",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239460695259611166/image.png?ex=66430139&is=6641afb9&hm=10e69cd9c35fd55a7e6f982a844405a9246c17a4036c3ba85db50605b1b1cec7&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641bfb57d79b6b57548d8f9"
+  },
+  "title": "Laboratorio PS # 3",
+  "description": "Creamos un gestor de opniones en el cual se pueden hacer post y se pueden comentar los post",
+  "taskType": "PRACITCA SUPERVISADA",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239462072484630578/image.png?ex=66430282&is=6641b102&hm=8dc843043d12b32f63589991f71b9ee5f0d7d58f24c43ffeb14f65fdc3666d09&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641bfde7d79b6b57548d8fb"
+  },
+  "title": "Frameworks de aplicaciones híbridas",
+  "description": "Realizamos un video en el cual explicamos lo que es el React Native",
+  "taskType": "PRACITCA SUPERVISADA",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239462938339835924/image.png?ex=66430350&is=6641b1d0&hm=24bdde3d0824290da127769aa2a721b01b1fc86841a268871bd3f1235ef75562&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641bffc7d79b6b57548d8fd"
+  },
+  "title": "Proyecto grupal",
+  "description": "Realizamos una almacenadora en el cual permite almacenar productos por fecha de inicio y fina",
+  "taskType": "PRACITCA SUPERVISADA",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239463665661640705/image.png?ex=664303fe&is=6641b27e&hm=4293a382d040fecbcbf6423df060df1d7c7e8e6b6ee5b590ebb8dfdcf13f22da&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641c01d7d79b6b57548d8ff"
+  },
+  "title": "Infografía",
+  "description": "Infografia sobre el Desarrollo WEB y procesadores (LESS,SASS,PUG,JADE)",
+  "taskType": "TECNOLOGIA III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239465241499406367/image.png?ex=66430575&is=6641b3f5&hm=bc5130f1e7ea5080fe2957bc5b6ae26530aabfdc298def50ae95ea81b89dd255&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641c0427d79b6b57548d901"
+  },
+  "title": "Mapa conceptual",
+  "description": "Mapa conceptaul sobre las Tecnologias WEB",
+  "taskType": "TECNOLOGIA III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239465622606446602/image.png?ex=664305d0&is=6641b450&hm=cb7be08c076cac8345f055ff4540971642d435ba4a96385b0cd006ab55b23497&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641c0657d79b6b57548d903"
+  },
+  "title": "Mapa mental",
+  "description": "Mapa mental sobre el desarrollo WEB",
+  "taskType": "TECNOLOGIA III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239465850726252584/image.png?ex=66430606&is=6641b486&hm=acfb25a60ed016c9fd00b478dbd3147e08ca52ab9005fe70bfdda9cdfb75ba95&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641c07c7d79b6b57548d905"
+  },
+  "title": "Infografía: Beneficios Reactl",
+  "description": "Infografia sobre los benefecios de usar REACT",
+  "taskType": "TECNOLOGIA III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239466467343466547/image.png?ex=66430699&is=6641b519&hm=149794a2e4ce384a42d02f2c02246978706e69da8f63608041dfed0b2d4270cc&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641c0977d79b6b57548d907"
+  },
+  "title": "Propuesta de proyecto",
+  "description": "Realizamos la propuesta del proyecto NeighbordAlert",
+  "taskType": "TECNOLOGIA III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239466738727391273/image.png?ex=664306da&is=6641b55a&hm=33642317e5fca727c8958bbc6f3eb48253d64b9a4b73f86317a8e27fb5c6cb1a&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641c0c17d79b6b57548d909"
+  },
+  "title": "Investigación",
+  "description": "Realizamos la investigacion de API, Rest, RestFull, buenas prácticas de desarrollo de API’s.",
+  "taskType": "TECNOLOGIA III",
+  "img": "https://cdn.discordapp.com/attachments/1097317425474715732/1239466956503912521/image.png?ex=6643070e&is=6641b58e&hm=825b038971e8bc94338159d5603a07fb269cc4b5b9f8fd3570055e6534c9b835&",
+  "comments": [],
+  "state": true,
+  "__v": 0
+}]

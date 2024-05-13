@@ -1,0 +1,99 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Blog",
+    "collectionId": "ea29de0d-15dd-4e16-9e61-01925ae6843d",
+    "dateExported": "2024-05-13T07:28:51.634Z",
+    "version": "1.2",
+    "folders": [
+        {
+            "_id": "cd4d6bf8-ecc1-4fc5-be07-0b4d7bb6747f",
+            "name": "Task",
+            "containerId": "",
+            "created": "2024-05-12T14:37:39.184Z",
+            "sortNum": 10000
+        }
+    ],
+    "requests": [
+        {
+            "_id": "2b8f760b-8f8e-4cdd-bef8-b42a445cc2be",
+            "colId": "ea29de0d-15dd-4e16-9e61-01925ae6843d",
+            "containerId": "cd4d6bf8-ecc1-4fc5-be07-0b4d7bb6747f",
+            "name": "getTask",
+            "url": "localhost:8080/Blog/v1/Task/",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-12T14:37:53.640Z",
+            "modified": "2024-05-12T14:39:35.617Z",
+            "headers": []
+        },
+        {
+            "_id": "06912ce3-1735-4bfe-9705-aa4d92c3c887",
+            "colId": "ea29de0d-15dd-4e16-9e61-01925ae6843d",
+            "containerId": "cd4d6bf8-ecc1-4fc5-be07-0b4d7bb6747f",
+            "name": "createTask",
+            "url": "localhost:8080/Blog/v1/Task/",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2024-05-12T14:43:05.048Z",
+            "modified": "2024-05-13T07:26:57.162Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"title\": \"Investigación\",\n  \"description\": \"Realizamos la investigacion de API, Rest, RestFull, buenas prácticas de desarrollo de API’s.\",\n  \"img\": \"https://cdn.discordapp.com/attachments/1097317425474715732/1239466956503912521/image.png?ex=6643070e&is=6641b58e&hm=825b038971e8bc94338159d5603a07fb269cc4b5b9f8fd3570055e6534c9b835&\",\n  \"taskType\": \"TECNOLOGIA III\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "f49376bc-0aed-45ef-a24f-dfe428571d03",
+            "colId": "ea29de0d-15dd-4e16-9e61-01925ae6843d",
+            "containerId": "cd4d6bf8-ecc1-4fc5-be07-0b4d7bb6747f",
+            "name": "updateTask",
+            "url": "localhost:8080/Blog/v1/Task/",
+            "method": "PUT",
+            "sortNum": 30000,
+            "created": "2024-05-12T14:53:58.575Z",
+            "modified": "2024-05-12T15:04:17.722Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\":\"6640d9f0383ec514b6aa0016\",\n  \"title\": \"Almacenadora\",\n  \"description\": \"pues almacena\",\n  \"img\": \"https://riot-us.com/wp-content/uploads/2023/11/intro-1634607238.webp\",\n  \"taskType\": \"Tallerdd\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "e64cf2f6-e827-423e-b326-991f9f7530c2",
+            "colId": "ea29de0d-15dd-4e16-9e61-01925ae6843d",
+            "containerId": "cd4d6bf8-ecc1-4fc5-be07-0b4d7bb6747f",
+            "name": "deleteTask",
+            "url": "localhost:8080/Blog/v1/Task/",
+            "method": "DELETE",
+            "sortNum": 40000,
+            "created": "2024-05-12T15:00:21.592Z",
+            "modified": "2024-05-12T15:04:46.663Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\":\"6640d9f0383ec514b6aa0016\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "f15907b0-75c6-4a4b-bcc3-a52541f93299",
+            "colId": "ea29de0d-15dd-4e16-9e61-01925ae6843d",
+            "containerId": "cd4d6bf8-ecc1-4fc5-be07-0b4d7bb6747f",
+            "name": "createComment",
+            "url": "localhost:8080/Blog/v1/Task/comment/",
+            "method": "POST",
+            "sortNum": 50000,
+            "created": "2024-05-12T16:45:38.583Z",
+            "modified": "2024-05-12T21:41:28.421Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"taskId\": \"664120f7dba73e5820cc0aae\", \n  \"content\": \"Comete esta xd \",\n  \"author\": \"Dsiney\"\n}\n",
+                "form": []
+            }
+        }
+    ],
+    "ref": "Rnmd1H8fGmW-vGlkzSFhnWY3Bk65gQRYHP_8dikQLJEQJ0meuHkDdk4v0ZjQ1nQGfXHez5Y9br083r9FnQpg9Q"
+}
